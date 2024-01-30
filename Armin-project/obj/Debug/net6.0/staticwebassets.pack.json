@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\base\\_body-element.sass",
+      "PackagePath": "staticwebassets\\css\\base\\_body-element.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\base\\_fonts.scss",
+      "PackagePath": "staticwebassets\\css\\base\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\base\\_normalize.scss",
+      "PackagePath": "staticwebassets\\css\\base\\_normalize.scss"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\base\\_selection-colors.sass",
+      "PackagePath": "staticwebassets\\css\\base\\_selection-colors.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\base\\_vars.sass",
+      "PackagePath": "staticwebassets\\css\\base\\_vars.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Black.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Black.eot"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Black.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Black.svg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Black.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Black.woff"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Bold.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Bold.eot"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Bold.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Bold.svg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Bold.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Bold.woff"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Light.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Light.eot"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Light.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Light.svg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Light.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Light.woff"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Regular.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Regular.eot"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Regular.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Regular.svg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\fonts\\Montserrat-Regular.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Montserrat-Regular.woff"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\layouts\\_grid.sass",
+      "PackagePath": "staticwebassets\\css\\layouts\\_grid.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\main.sass",
+      "PackagePath": "staticwebassets\\css\\main.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_about.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_about.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_contact.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_contact.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_device-notification.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_device-notification.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_header.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_header.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_hire.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_hire.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_intro.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_intro.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_outer-nav.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_outer-nav.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_section.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_section.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_side-nav.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_side-nav.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\css\\modules\\_work.sass",
+      "PackagePath": "staticwebassets\\css\\modules\\_work.sass"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\8.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\about-history.jpg",
+      "PackagePath": "staticwebassets\\img\\about-history.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\about-philosophy.jpg",
+      "PackagePath": "staticwebassets\\img\\about-philosophy.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\about-visual.png",
+      "PackagePath": "staticwebassets\\img\\about-visual.png"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\about-winners.jpg",
+      "PackagePath": "staticwebassets\\img\\about-winners.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\contact-visual.png",
+      "PackagePath": "staticwebassets\\img\\contact-visual.png"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\introduction-visual.png",
+      "PackagePath": "staticwebassets\\img\\introduction-visual.png"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\work-alex-nowak.jpg",
+      "PackagePath": "staticwebassets\\img\\work-alex-nowak.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\work-metiew-smith.jpg",
+      "PackagePath": "staticwebassets\\img\\work-metiew-smith.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\img\\work-victory.jpg",
+      "PackagePath": "staticwebassets\\img\\work-victory.jpg"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\js\\functions-min.js",
+      "PackagePath": "staticwebassets\\js\\functions-min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\js\\functions.js",
+      "PackagePath": "staticwebassets\\js\\functions.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\js\\vendor\\hammer-2.0.8.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\hammer-2.0.8.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\project\\coding  shit\\projects\\c#\\ASP .NET\\Armin-project\\Armin-project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Armin-project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Armin-project.props",
+      "PackagePath": "build\\Armin-project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Armin-project.props",
+      "PackagePath": "buildMultiTargeting\\Armin-project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Armin-project.props",
+      "PackagePath": "buildTransitive\\Armin-project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
